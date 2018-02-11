@@ -1,0 +1,55 @@
+h1
+   {color: red; 
+	font-weight: 900; 
+	font-size: 40px;
+
+}
+
+.well{
+background-color: rgba(82, 82, 122, 1);
+}
+
+.well2
+{
+	background-color: purple ;
+	margin-right: 50px;
+	margin-left: 50px;
+	color: white;
+}
+
+#hi {
+color: green; 
+	font-weight: 900; 
+	font-size: 34px
+}
+
+#texthead {
+	color: white;
+    background-size: auto;
+    margin-right: 775px;
+    font-size: 30px;
+}
+#tablesty{
+	margin-top: 30px;
+	color: blue ;
+	font-size: 30px;
+	text-align: center;
+	font-weight: 5000px;
+}
+.table-hover tbody tr:hover td
+{
+  background-color: red;
+}
+
+.table-hover tbody tr:hover th {
+  background-color: green;
+}
+.fa {
+  padding: 20px;
+  font-size: 50px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
